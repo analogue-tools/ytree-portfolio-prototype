@@ -1,12 +1,14 @@
 # Deliverable 1: the problem, and where to start
 
+Live prototype: https://ytree-case-study.vercel.app
+
 ## The problem
 
 - The app shows a client's wealth one way: grouped by account, by where the money is held. One path through it, no way to re-sort.
-- A valuable minority, roughly 10 to 15 percent by Calum's estimate, do not think that way. Three mismatches:
-  - Private-equity clients hold a liquid portfolio and one locked for 8 to 12 years, and want them kept apart, not merged in one list.
-  - Sophisticated clients navigate by asset class, not by custody, and want exposure across every wrapper before drilling in.
-  - Joint profiles, which are most clients, cannot isolate Mine, Partner's or Joint for tax or an accountant.
+- A valuable minority, roughly 10 to 15 percent by Calum's estimate, do not think that way. Three mismatches, all the same data:
+- Private-equity clients hold a liquid portfolio and one locked for 8 to 12 years, and want them kept apart, not merged in one list.
+- Sophisticated clients navigate by asset class, not by custody, and want exposure across every wrapper before drilling in.
+- Joint profiles, which are most clients, cannot isolate Mine, Partner's or Joint for tax or an accountant.
 - All three are handled today by hand-built PDFs from the client team.
 - Separately: about a quarter of clients never open the app. The value sits with the adviser, and those clients are the least sticky.
 - The common thread is one mindset: the client wants a single, centralised tool that works the way they already think.

@@ -1,4 +1,4 @@
-# Y TREE — problem and where to start
+# Y TREE: problem and where to start
 
 One page of context for the prototype. Source: interview with Calum Cammack, 25 Aug 2026. Not a second product.
 
@@ -13,13 +13,13 @@ Over the past year, clients have said this is **not how they think about their m
 
 Three different “doesn’t match” stories came up. They are slices of the same data, not three products.
 
-1. **Liquid vs illiquid (PE / private-market clients).** They already see two portfolios: cash and listed investments they check when markets move, versus money locked **8–12 years**. They want different information on each, and to compare them. Today the app mixes both into the same account list. The client team already prepares **semi-bespoke reports** that split liquid / illiquid for higher-net-wealth clients. That is a human workaround, not a product.
+1. **Liquid vs illiquid (PE / private-market clients).** They already see two portfolios: cash and listed investments they check when markets move, versus money locked **8 to 12 years**. They want different information on each, and to compare them. Today the app mixes both into the same account list. The client team already prepares **semi-bespoke reports** that split liquid / illiquid for higher-net-wealth clients. That is a human workaround, not a product.
 
 2. **Asset class vs custody (more sophisticated clients).** They want to start from **% equities vs % bonds** (true exposure across every wrapper), then drill. Today they start from “where it sits” and cannot get that cut without asking.
 
 3. **Mine / partner’s / genuinely joint (joint profiles; less cohort-specific).** Majority of clients are a joint household. There is currently **no way** to see that split. It is asked out of interest and for tax / accountants.
 
-A fourth, quieter problem sits on top of those: **~25% do not use the app**. Their value sits with the adviser, so they are less sticky. Anecdotally, among ultra-HNW / PE discovery, the most common reason is the structure. Calum’s estimate: an alternative portfolio view might only ever be used by **10–15%**. That is the group this change is for.
+A fourth, quieter problem sits on top of those: **~25% do not use the app**. Their value sits with the adviser, so they are less sticky. Anecdotally, among ultra-HNW / PE discovery, the most common reason is the structure. Calum’s estimate: an alternative portfolio view might only ever be used by **10 to 15%**. That is the group this change is for.
 
 What this is *not*: people being lost, or wanting a trading app. Y TREE’s philosophy is long-term. Clients still open the app in **volatile markets** to see how the world affected *them*. Equities and bonds reprice daily; PE may update every six months. The app should respect both cadences.
 
@@ -43,7 +43,7 @@ What this is *not*: people being lost, or wanting a trading app. Y TREE’s phil
 ## Assumptions
 
 - The current account list is the right default. Changing it would harm more people than it helps.
-- The 10–15% overlaps the less-sticky, higher-value clients who today get a PDF.
+- The 10 to 15% overlaps the less-sticky, higher-value clients who today get a PDF.
 - Backend can already show the same holdings in another cut (Calum: assume any format).
 - Literacy varies. Sports people and some senior lawyers may know little about personal finance; some PE clients want every number. Same app. Depth belongs on the optional views, not on the default list.
 - “Whose assets” is a filter, not a fourth home.

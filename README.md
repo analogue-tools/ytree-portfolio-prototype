@@ -1,4 +1,4 @@
-# Y TREE — the same wealth, three lenses
+# Y TREE: the same wealth, three lenses
 
 Take-home for a Mobile Product Manager role at Y TREE (an FCA-regulated wealth manager).
 
@@ -18,15 +18,15 @@ a large engineering lift. So: a small set of preset lenses, opt-in, default unto
 
 One home screen with three view states, plus one drill-down:
 
-- **By provider** — the current default, unchanged. For assets not priced daily it shows
+- **By provider.** The current default, unchanged. For assets not priced daily it shows
   the last valuation date, never a day-to-day change.
-- **By asset class** — the same wealth combined across every provider. A labelled pie and
+- **By asset class.** The same wealth combined across every provider. A labelled pie and
   a table. Tapping *Equities* opens the drill.
-- **By liquidity** — two buckets, Liquid vs Locked, each with its own check-in language,
+- **By liquidity.** Two buckets, Liquid vs Locked, each with its own check-in language,
   plus "what you could reach now, before tax".
-- **Whose assets** — All / Mine / Partner's / Joint, recomputes every view. One tap to
+- **Whose assets.** All / Mine / Partner's / Joint, recomputes every view. One tap to
   "prepare a statement for your accountant" (replacing the client team's manual monthly PDF).
-- **Equities drill** — every equity holding you own, combined across providers. The one
+- **Equities drill.** Every equity holding you own, combined across providers. The one
   place total exposure to a single fund or company is visible.
 
 The two new lenses are introduced with a single dismissible line. The home leads with a
@@ -42,7 +42,7 @@ Single self-contained `index.html`, no build.
 
 ### Vercel
 
-vercel.com/new -> import this repo -> Other, no build, output `.` -> Deploy.
+vercel.com/new, import this repo, choose Other, no build, output `.`, then Deploy.
 
 ## Design
 
